@@ -9,4 +9,10 @@ async def on_ready():
     print("---------------------")
     
 @client.command()
-    
+async def hello(ctx):
+    await ctx.send("hihi")
+  
+
+
+
+client.run('MTI1MjY5NTQ2ODU5Nzg0MTk5MA.G0eQOA.d2CO9g98NDszXnB-FS3ZxKohPwWp_yUDqGdCLQ')
