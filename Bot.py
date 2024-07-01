@@ -1,5 +1,6 @@
 import discord
 from discord.ext import commands
+<<<<<<< HEAD
 import youtube_dl
 from discord import FFmpegOpusAudio
 from apikeys import BOTTOKEN
@@ -143,3 +144,21 @@ async def play(interaction: discord.Interaction, *, music_name: str):
         await bot.log_error(error_message)
 
 bot.run(BOTTOKEN)
+=======
+
+client = commands.Bot(command_prefix = 'hihi!')
+
+@client.event
+async def on_ready():
+    print("The bot is now ready for use!")
+    print("---------------------")
+    
+@client.command()
+async def hello(ctx):
+    await ctx.send("hihi")
+  
+
+
+
+client.run('MTI1MjY5NTQ2ODU5Nzg0MTk5MA.G0eQOA.d2CO9g98NDszXnB-FS3ZxKohPwWp_yUDqGdCLQ')
+>>>>>>> branch 'main' of https://github.com/RautuA/Discord-Bot.git

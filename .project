@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>Bot</name>
+=======
+	<name>Discord-Bot</name>
+>>>>>>> branch 'main' of https://github.com/RautuA/Discord-Bot.git
 	<comment></comment>
 	<projects>
 	</projects>
