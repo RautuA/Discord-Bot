@@ -1,6 +1,6 @@
 # Discord Bot
 
-A powerful and easy-to-use Discord bot that plays music from YouTube. This bot is built using Python and discord.py, and it includes several useful features such as playing, leaving, and showing bot latency. Additionally, using this bot can help you earn the Active Developer Badge on Discord!
+Easy-to-use Discord bot that plays music from YouTube. This bot is built using Python and discord.py, and it includes several useful features such as playing, leaving, and showing bot latency. Additionally, using this bot can help you earn the Active Developer Badge on Discord!
 
 ## Features
 
